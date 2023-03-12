@@ -20,5 +20,8 @@
 /reddit https://www.reddit.com/user/anatawa12 301
 /booth https://anatawa12.booth.pm/ 301
 /misskey-nirila https://misskey.niri.la/@anatawa12 301
+# todo: change to mi.anatawa12.com when it's released
+/misskey.vrchat https://misskey.niri.la/@anatawa12 301
+/misskey.main https://misskey.niri.la/@anatawa12 301
 # don't forget to add to index.html
 
