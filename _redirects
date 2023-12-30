@@ -7,9 +7,14 @@
 /maintain-slowly.svg https://github.com/anatawa12/anatawa12/raw/master/icons/a12-slowly.svg 301
 /maintain-inactive.svg https://github.com/anatawa12/anatawa12/raw/master/icons/a12-inactive.svg 301
 /maintain-archived.svg https://github.com/anatawa12/anatawa12/raw/master/icons/a12-archived.svg 301
+
+# website
+/site https://anatawa12.com/ 301
+
 # accounts
 /accounts https://anatawa12.com/ 301
 /github https://github.com/anatawa12 301
+/gh https://github.com/anatawa12 301
 /qiita https://qiita.com/anatawa12 301
 /zenn https://zenn.dev/anatawa12 301
 /twitter https://twitter.com/kakerigawa 301
@@ -24,5 +29,6 @@
 /misskey-nirila https://misskey.niri.la/@anatawa12 301
 /misskey.vrchat https://misskey.niri.la/@anatawa12 301
 /misskey.main https://misskey.niri.la/@anatawa12 301
+
 # don't forget to add to index.html
 
